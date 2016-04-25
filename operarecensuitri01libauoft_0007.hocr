@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operarecensuitri01libauoft_0007.png"; bbox 0 0 2026 3168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 7 0 219 30">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 7 0 219 30">
+     <span class='ocr_line' id='line_1_1' title="bbox 7 0 219 30; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 7 0 219 30; x_wconf 48' lang='lat' dir='ltr'><strong>,zaexn-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 194 373 1862 674">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 194 373 1862 674">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 373 1862 674; baseline -0.001 -82"><span class='ocrx_word' id='word_1_2' title='bbox 194 373 1088 674; x_wconf 25' lang='lat' dir='ltr'><strong>IIFJ‘IBANIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1154 468 1862 594; x_wconf 77' lang='lat' dir='ltr'><strong>OPERA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 862 798 1183 838">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 862 798 1183 838">
+     <span class='ocr_line' id='line_1_3' title="bbox 862 798 1183 838; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 862 798 1183 838; x_wconf 87' lang='lat' dir='ltr'>EEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 493 1044 1555 1102">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 493 1044 1555 1102">
+     <span class='ocr_line' id='line_1_4' title="bbox 493 1044 1555 1102; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 493 1045 1015 1102; x_wconf 83' lang='lat' dir='ltr'><strong>RICHARDUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1069 1044 1555 1100; x_wconf 79' lang='lat' dir='ltr'><strong>FOERSTER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 738 1559 1315 1733">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 738 1559 1315 1733">
+     <span class='ocr_line' id='line_1_5' title="bbox 738 1559 1315 1610; baseline 0.002 -3"><span class='ocrx_word' id='word_1_7' title='bbox 738 1560 967 1610; x_wconf 91' lang='lat' dir='ltr'><strong>VOL.I.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1054 1559 1315 1609; x_wconf 81' lang='lat' dir='ltr'><strong>FASO.L</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 760 1687 1270 1733; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 760 1687 1270 1733; x_wconf 75' lang='lat' dir='ltr'><strong>OOOOOOOOOOOOO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 537 2827 1513 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 537 2827 1513 2874">
+     <span class='ocr_line' id='line_1_7' title="bbox 537 2827 1513 2874; baseline -0.004 0"><span class='ocrx_word' id='word_1_10' title='bbox 537 2827 1513 2874; x_wconf 86' lang='lat' dir='ltr'><strong>IIIIIIIIIIIIIIIIIIIIII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 939 2933 1118 2966">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 939 2933 1118 2966">
+     <span class='ocr_line' id='line_1_8' title="bbox 939 2933 1118 2966; baseline -0.011 -1"><span class='ocrx_word' id='word_1_11' title='bbox 939 2933 1118 2966; x_wconf 75' lang='lat' dir='ltr'><strong>MMMMMM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
